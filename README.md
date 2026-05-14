@@ -12,7 +12,7 @@ A functional implementation of a **Deterministic Turing Machine (DTM)** written 
     * **Divisibility by 3:** A state-machine logic to check if a binary input is divisible by 3.
     * **Ones Replacement:** A fundamental example of symbol manipulation.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 * **Language:** Haskell
 * **Environment:** GHC (Glasgow Haskell Compiler) / GHCi
